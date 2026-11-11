@@ -1,17 +1,16 @@
-# Northgo website reference — v1.0.1
+# NorthGo website reference — v1.1.0
 
-Website: https://connie7303-bit.github.io/northgo-site/
+Live website: https://connie7303-bit.github.io/northgo-site/
 
-Public repository and GitHub Pages, enabled with owner approval. Pages publishes the main branch root over HTTPS.
+Four-language responsive HTML website based on Northgo public information. Includes service introductions, industry applications, company information, office map and enquiry-email preparation.
 
-- index.html: full sitemap homepage.
+- index.html / northgo-website.html: complete website.
 - northgo-sitemap.html: current architecture and proposed rebuild.
 - northgo-sitemap-tree.html: compact tree.
-- northgo-global-offices.html: interactive global office map.
+- northgo-global-offices.html: interactive office map.
 
-Four languages: Traditional Chinese, English, Japanese and Vietnamese. Responsive self-contained HTML pages with embedded branding and offline map.
+The navigation links and expandable previews integrate both earlier sitemaps. Keep all HTML files together when downloading. Logos and the homepage image are embedded.
 
-Proposed page paths are planning information, not implemented live pages. Office coordinates indicate approximate city positions. This is an unofficial reference based on Northgo public information, not the official Northgo website.
+The enquiry form prepares an email; it does not submit to a server. Send it in your email app. No CMS or CRM backend is connected. Office coordinates are approximate city positions. Proposed sitemap paths are plans, not implemented pages. Industry applications are not customer case studies.
 
-Version: 1.0.1. Future commits to main trigger a Pages rebuild.
-
+This is an unofficial reference design, not the Northgo official website. Branding and imagery reference the original public website. GitHub Pages publishes main / root over HTTPS with owner approval.

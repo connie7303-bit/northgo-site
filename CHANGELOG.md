@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.1.0 — 2026-11-11
+
+- Add a complete responsive four-language website as the homepage.
+- Integrate the full sitemap, compact tree, and global offices map.
+- Add service-specific enquiries that prepare an email for user review.
+- Embed official branding and the source website image.
+
+
 ## 1.0.1 — 2026-11-11
 
 - Make the repository public with owner approval.
