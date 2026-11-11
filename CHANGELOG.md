@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.1 — 2026-11-11
+
+- Add a clear, localized version badge to the website footer.
+- Document the user release command: bump, push and deploy.
+
+
 ## 1.1.0 — 2026-11-11
 
 - Add a complete responsive four-language website as the homepage.

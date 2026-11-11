@@ -1,4 +1,4 @@
-# NorthGo website reference — v1.1.0
+# NorthGo website reference — v1.1.1
 
 Live website: https://connie7303-bit.github.io/northgo-site/
 
@@ -14,3 +14,7 @@ The navigation links and expandable previews integrate both earlier sitemaps. Ke
 The enquiry form prepares an email; it does not submit to a server. Send it in your email app. No CMS or CRM backend is connected. Office coordinates are approximate city positions. Proposed sitemap paths are plans, not implemented pages. Industry applications are not customer case studies.
 
 This is an unofficial reference design, not the Northgo official website. Branding and imagery reference the original public website. GitHub Pages publishes main / root over HTTPS with owner approval.
+
+## Release convention
+
+After describing changes in natural language, use `bump, push and deploy` to request a release. Default to a patch version bump, synchronize the footer, VERSION and changelog, commit to main, and verify the Pages deployment.
