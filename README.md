@@ -1,15 +1,17 @@
-# Northgo website reference — v1.0.0
+# Northgo website reference — v1.0.1
 
-Private repository. GitHub Pages is not enabled.
+Website: https://connie7303-bit.github.io/northgo-site/
+
+Public repository and GitHub Pages, enabled with owner approval. Pages publishes the main branch root over HTTPS.
 
 - index.html: full sitemap homepage.
 - northgo-sitemap.html: current architecture and proposed rebuild.
 - northgo-sitemap-tree.html: compact tree.
-- northgo-global-offices.html: interactive world map and office directory.
+- northgo-global-offices.html: interactive global office map.
 
-Four languages: Traditional Chinese, English, Japanese and Vietnamese. Responsive, self-contained HTML pages with embedded logo and offline map.
+Four languages: Traditional Chinese, English, Japanese and Vietnamese. Responsive self-contained HTML pages with embedded branding and offline map.
 
-Open index.html in a browser after downloading the files. Proposed page paths are plans, not live pages. Office coordinates are approximate city locations. This is an unofficial reference based on Northgo public pages.
+Proposed page paths are planning information, not implemented live pages. Office coordinates indicate approximate city positions. This is an unofficial reference based on Northgo public information, not the official Northgo website.
 
-Version: 1.0.0. Public deployment is intentionally disabled.
+Version: 1.0.1. Future commits to main trigger a Pages rebuild.
 

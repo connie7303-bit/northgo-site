@@ -1,9 +1,13 @@
 # Changelog
 
+## 1.0.1 — 2026-11-11
+
+- Make the repository public with owner approval.
+- Enable GitHub Pages from main / root with HTTPS.
+- Update documentation with the public website URL.
+
 ## 1.0.0 — 2026-11-11
 
 - Initial four-language responsive website.
-- Current and proposed website architecture, compact tree, and interactive office map.
-- Official NorthGo logo and navy/teal brand palette.
-- Self-contained pages with offline support.
+- Full and compact sitemaps, interactive global office map, and official branding.
 
