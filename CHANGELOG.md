@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.2 — 2026-11-11
+
+- User-requested patch release; synchronize footer and release metadata.
+- Republish the current four-language website to GitHub Pages.
+
+
 ## 1.1.1 — 2026-11-11
 
 - Add a clear, localized version badge to the website footer.

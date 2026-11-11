@@ -1,4 +1,4 @@
-# NorthGo website reference — v1.1.1
+# NorthGo website reference — v1.1.2
 
 Live website: https://connie7303-bit.github.io/northgo-site/
 
