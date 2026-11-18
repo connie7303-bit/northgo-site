@@ -1,4 +1,4 @@
-# NorthGo website reference — v1.1.2
+# NorthGo website reference — v1.1.3
 
 Live website: https://connie7303-bit.github.io/northgo-site/
 
@@ -18,3 +18,7 @@ This is an unofficial reference design, not the Northgo official website. Brandi
 ## Release convention
 
 After describing changes in natural language, use `bump, push and deploy` to request a release. Default to a patch version bump, synchronize the footer, VERSION and changelog, commit to main, and verify the Pages deployment.
+
+## Freight logistics
+
+`freight-logistics.html` is the dedicated four-language freight page. Its Hero embeds the container-ship photograph from the original NorthGo public freight page, with responsive cropping, contrast overlays and enquiry links.

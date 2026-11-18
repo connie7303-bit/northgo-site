@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.1.3 — 2026-11-18
+
+- Add a dedicated four-language freight-logistics page with a photographic Hero.
+- Use the original NorthGo container-ship image with responsive cropping and navy overlays.
+- Add clear freight enquiry and service-scope calls to action.
+- Link the freight page from the homepage and retain the working enquiry flow.
+
+
 ## 1.1.2 — 2026-11-11
 
 - User-requested patch release; synchronize footer and release metadata.
